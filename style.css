@@ -1,0 +1,109 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 40px;
+  background-color: slategrey;
+  color: white;
+  background-image: url("https://showroom.openspacehotels.com/wp-content/uploads/2018/02/space-bg.jpg");
+  
+}
+
+h1 {
+  font-family: verdana, arial, sans-serif;
+  margin-left:120px;
+}
+p{
+  font-family: verdana, arial, sans-serif;
+  margin-left:300px;
+  
+}
+
+button{
+  padding: 10px;
+  border-radius: 10px;
+}
+
+#colorButtons > button{
+  width:200px;
+  height:200px;
+  margin:60px;
+  margin-bottom:40px;
+  border-radius: 180px;
+  font-family: cursive;
+  font-size: 25px;
+  
+}
+#startBtn, #stopBtn{
+  font-family: verdana, arial, sans-serif;
+  margin-left:620px;
+}
+
+.hidden {
+  display: none;
+}
+
+#button1 {
+    background: #ff4040;
+}
+
+#button1:active, #button1.lit {
+    background:#a40000;
+}
+
+#button2 {
+    background: #32cd32;
+}
+
+#button2:active, #button2.lit {
+    background:#008000;
+}
+
+#button3 {
+    background: #87ceeb;
+}
+
+#button3:active, #button3.lit{
+    background:#1e90ff;
+}
+
+#button4 {
+    background: #fcffa4;
+}
+
+#button4:active, #button4.lit {
+    background:#fbec5d;
+}
+
+#button5 {
+    background: #dda0dd;
+}
+
+#button5:active, #button5.lit {
+    background:#ba55d3;
+}
+
+#button6{
+    background: #a0785a;
+}
+
+#button6:active, #button6.lit {
+    background:#704214;
+}
+
+#button7 {
+    background: #ffa500;
+}
+
+#button7:active, #button7.lit{
+    background:#ff8c00;
+}
+
+#button8 {
+    background: #a9a9a9;
+}
+
+#button8:active, #button8.lit {
+    background:#696969;
+}
+
